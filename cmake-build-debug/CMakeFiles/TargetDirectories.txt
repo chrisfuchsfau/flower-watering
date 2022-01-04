@@ -1,3 +1,3 @@
-C:/01_programming-projects/Blumen-giessen/cmake-build-debug/CMakeFiles/Blumen_giessen.dir
-C:/01_programming-projects/Blumen-giessen/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/01_programming-projects/Blumen-giessen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/01_programming-projects/flower-watering/cmake-build-debug/CMakeFiles/Blumen_giessen.dir
+C:/01_programming-projects/flower-watering/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/01_programming-projects/flower-watering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
