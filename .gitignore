@@ -32,10 +32,11 @@
 *.app
 
 # User defined ignored files
-Treiber
+Treiber/
 *.xlsx
-DRVSETUP64
-Manuals
+DRVSETUP64/
+Manuals/
 measureHumidity.ino
 watering.ino
 CMakeLists.txt
+cmake-build-debug/
