@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# User defined ignored files
+Treiber/
+*.xlsx
+DRVSETUP64/
+Manuals/
+measureHumidity.ino
+watering.ino
+CMakeLists.txt
+cmake-build-debug/
