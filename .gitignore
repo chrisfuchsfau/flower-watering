@@ -40,3 +40,4 @@ measureHumidity.ino
 watering.ino
 CMakeLists.txt
 cmake-build-debug/
+.idea/
